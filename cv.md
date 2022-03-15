@@ -56,3 +56,8 @@ function repeatStr (n, s) {
  * Different SEO courses;
  * JavaScript on learn.javascript.ru (in progress)
 * RS School JS/Frontend Stage 0 (completed)
+
+---
+**Languages:**
+* Russian: native;
+* English: A2;
