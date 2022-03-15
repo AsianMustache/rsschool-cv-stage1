@@ -16,3 +16,37 @@ ___
    I want to know more about IT and Development, and now i'm here, and now i'm learning JavaScript.
    I want to learn JS because i want to create new, i want to development.
    ***
+
+   **Skills:**
+ * HTML basic;
+ * CSS basic;
+ * SEO:
+    * Site audit;
+    * Collect semantic;
+    * Meta-tags;
+    * Edit Robots.txt & Sitemap.xml;
+    * etc.
+* Edit any information at CMS:
+    * WordPress;
+    * Bitrix;
+    * Open Cart;
+    * Joomla;
+    * ModX;
+and other SEO staff
+---
+**Code Example**
+
+From Codewars
+```
+
+function repeatStr (n, s) {
+  return s.repeat(n);
+}
+
+```
+
+---
+**Courses:**
+ * Different SEO courses;
+ * JavaScript on learn.javascript.ru (in progress)
+* RS School JS/Frontend Stage 0 (completed)
