@@ -1,4 +1,4 @@
-# Aleksandr Fan
+# Aleksander Fan
 ___
 **Contacts:** 
   * Location: Krasnodar;
